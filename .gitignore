@@ -1,0 +1,22 @@
+# Build outputs
+build/
+*.o
+*.d
+*.bin
+*.elf
+*.map
+*.hex
+*.axf
+
+# IDE files
+*.uvguix.*
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*~
